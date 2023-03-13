@@ -1,6 +1,6 @@
 # HTML-CSS--Practical
 
-##Static webpage link :
+## Static webpage link : https://pakshalghiya7.github.io/HTML-CSS--Practical/flipkart.html
 
 ## Overview
 ![Screenshot from 2023-03-13 17-05-39](https://user-images.githubusercontent.com/125532012/224693165-87b8f745-2074-46b3-90cd-659f9d801a14.png)
@@ -10,6 +10,4 @@
 
 
 
-## Video Preview
 
-[Uploading Screencast from 13-03-23 04:49:30 PM IST.webm…]()
